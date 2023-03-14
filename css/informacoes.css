@@ -1,0 +1,59 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 280px;
+    height: 30px;
+    margin: auto;
+    background-color:rgba(60, 68, 68, 0.767);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.informacao{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100%;
+    color:rgb(255, 255, 255);
+}
+.numero { 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+}
+.quinta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 280px;
+    height: 30px;
+    width: 170px;
+    height: 15px;
+    margin: auto;
+    background-color:rgba(60, 68, 68, 0.767);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 8px;
+}
+.informacao2 {
+    color: rgb(255, 255, 255);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:70%;
+}
+.numero2 {
+    color: rgb(255, 255, 255);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+.casosmonitoramento {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    width: 320px;
+    height: 170px;
+    margin: auto;
+    background-color:rgba(34, 114, 27, 0.767);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 8px;
+}

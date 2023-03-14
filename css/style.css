@@ -1,0 +1,13 @@
+@import "titulo.css";
+@import "informacoes.css";
+
+body {
+    background-color:rgba(243, 248, 248, 0.904);
+}
+    main
+    {
+        width: 500px;
+        margin: auto;
+    }
+
+

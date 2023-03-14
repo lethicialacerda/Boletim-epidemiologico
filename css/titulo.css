@@ -1,0 +1,49 @@
+header {
+    width: 800px;
+    height: 100px;
+    background-color:rgba(243, 248, 248, 0.904) ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    
+}
+.titulo1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 270px;
+    height: 45px;
+    margin: auto;
+    background-color:rgba(34, 114, 27, 0.767);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 8px;
+    
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 300%; 
+}   
+
+.titulocomplemento{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 270px;
+    height: 45px;
+    margin: auto;
+    background-color:rgba(60, 68, 68, 0.767);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.titulo2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 130%;
+}
